@@ -1,0 +1,12 @@
+{
+    "price" : 18000,
+    "item_cost" : 10000,
+    "order_cost" : 5625,
+    "holding_factor" : 0.36,
+    "holding_cost" : 10,
+    "lead_time" : 3,
+    "mu" : 5,
+    "sigma" : 0,
+    "game_period" : 60,
+    "game_position" : 60
+}
